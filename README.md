@@ -47,11 +47,6 @@
 
 ---
 
-### 📫 Contact Me
-📩 **Email:** [annatok.2022@gmail.com](mailto:annatok.2022@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/anna-tokareva-9487b224b](https://www.linkedin.com/in/anna-tokareva-9487b224b)  
-
----
 
 🚀 *Let's build the future of AI together!*  
 
