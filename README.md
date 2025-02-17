@@ -35,7 +35,7 @@
 | **Bias Detection in Speech Recognition** | Analyzed bias in ASR systems (Whisper, MMS) based on gender, age, skin tone & geo-location. | 🔗 [ACL Anthology](https://aclanthology.org/2024.ltedi-1.4/) |
 | **ACIIO – Actor-Critic Iterative Instruction Optimization** | Designed an AI framework for automated prompt refinement, improving dialogue summarization and code generation. | 🔗 [GitHub](https://github.com/your-username/project2) |
 | **ASR system for SLODiM platform** |Team project. Worked on Speaker Diarization, Sound preprocessing, helped with fine-tuning Whisper| 🔗 [GitHub](https://github.com/AnnaTokareff/slodim-asr.git) |
-| **Raply: A profanity-mitigated rap generator** |Team project. Worked on lyrics scrapping, implementing EDA of the dataset, helped with training GPT-2 model. | 🔗 [Raply](https://github.com/AnnaTokareff/Raply.git) |
+| **Raply: A profanity-mitigated rap generator** |Team project. Worked on lyrics scrapping, implementing EDA of the dataset, helped with training GPT-2 model. | 🔗 [GitHub](https://github.com/AnnaTokareff/Raply.git) |
 
 ---
 
